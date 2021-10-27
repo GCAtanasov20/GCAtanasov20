@@ -8,8 +8,9 @@
 * 📫How to reach me: GCAtanasov20@codingburgas.bg or galchog@abv.bg
 - ![Pickachu gif](https://c.tenor.com/3IACtMvxwdsAAAAC/pikachu-happy.gif)
 ## Languages and Tools:
-* ![C++](https://user-images.githubusercontent.com/85336800/139067396-b90c736d-fcab-4fe5-b5ff-212b42f5272d.png))
-
+* ![C++](https://user-images.githubusercontent.com/85336800/139067652-f097d688-5c76-490a-ae44-5afeb67d1a9f.png)
+* ![HTML](https://user-images.githubusercontent.com/85336800/139067777-f055a287-358a-4132-970e-7bfa7b359e8f.png)
+* ![CSS](https://user-images.githubusercontent.com/85336800/139067874-04e0162a-f585-45d5-9ff6-c49bc1c03709.png)
 <!---
 GCAtanasov20/GCAtanasov20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
