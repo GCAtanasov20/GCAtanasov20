@@ -9,7 +9,7 @@
 - ![Pickachu gif](https://c.tenor.com/3IACtMvxwdsAAAAC/pikachu-happy.gif)
 ## Languages and Tools:
 * ![C++](https://user-images.githubusercontent.com/85336800/139067652-f097d688-5c76-490a-ae44-5afeb67d1a9f.png)
-* ![HTML](https://user-images.githubusercontent.com/85336800/139067777-f055a287-358a-4132-970e-7bfa7b359e8f.png)
+* ![HTML](https://user-images.githubusercontent.com/85336800/139068016-91bd38be-dff1-4d7a-a9fe-5dec0974747b.png)
 * ![CSS](https://user-images.githubusercontent.com/85336800/139067874-04e0162a-f585-45d5-9ff6-c49bc1c03709.png)
 <!---
 GCAtanasov20/GCAtanasov20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
