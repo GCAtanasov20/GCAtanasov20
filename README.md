@@ -1,6 +1,4 @@
 # Hi I am Galin Atanasov
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGCAtanasov20%2Fhit-counter&count_bg=%23FF0000&title_bg=%23000000&icon=riseup.svg&icon_color=%2300DCFF&title=Visitors&edge_flat=true)](https://hits.seeyoufarm.com)
 ## Here are some things about me:
 * 👀I’m interested in Coding and Maths
 * 🌱I’m currently learning C++ and HTML5
